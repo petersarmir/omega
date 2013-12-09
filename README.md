@@ -1,0 +1,4 @@
+omega
+=====
+
+projekt na vsa
